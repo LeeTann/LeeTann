@@ -44,8 +44,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/leetann/"><img alt="Website" src="https://img.shields.io/badge/Website-www.leetann.me-blue?style=flat-square&logo=google-chrome"></a>
-<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.leetann.me"><img alt="Website" src="https://img.shields.io/badge/Website-www.leetann.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/leetann/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lee%20Tann%20-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ From [LeeTann](https://github.com/LeeTann)
