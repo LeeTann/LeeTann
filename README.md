@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Recent Graduate from Lambda School Coding Academy.
 - 💼 &nbsp; Working as a Freelance Developer while developing new skills.
 - 🌱 &nbsp; Learning more about Cloud Architecture and Serverless Applications.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -48,5 +48,8 @@
 <a href="https://www.leetann.me"><img alt="Website" src="https://img.shields.io/badge/Website-www.leetann.me-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/leetann/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lee%20Tann%20-blue?style=flat-square&logo=linkedin"></a>
 </p>
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/LeeTann/count.svg)
 
 ⭐️ From [LeeTann](https://github.com/LeeTann)
