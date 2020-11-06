@@ -14,6 +14,7 @@
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
