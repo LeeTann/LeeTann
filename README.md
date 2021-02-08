@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Lee</h2>
+<h1> Hey there! I'm Lee</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
